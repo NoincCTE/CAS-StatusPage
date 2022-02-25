@@ -1,7 +1,7 @@
 url: https://prod.kready.org/
-status: down
-code: 503
-responseTime: 381
-lastUpdated: 2022-02-25T12:56:03.816Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2022-02-25T15:29:52.562Z
 startTime: Fri Jan 07 2022 17:41:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
