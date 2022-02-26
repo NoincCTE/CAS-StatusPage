@@ -4,19 +4,19 @@
     "url": "https://prod.kready.org/",
     "icon": "https://favicons.githubusercontent.com/prod.kready.org",
     "slug": "k-ready",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "83.25%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.66%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "83.56%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.67%",
     "time": 440,
     "timeDay": 412,
     "timeWeek": 424,
     "timeMonth": 444,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-02-26": 26,
+      "2022-02-26": 22,
       "2022-02-25": 214
     }
   }
